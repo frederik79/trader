@@ -11,7 +11,7 @@ import org.springframework.web.client.RestTemplate;
 
 public class Application 
 {
-	  public static void main(String args[]) 
+	  public static void doSomething(String args[]) 
 	  {
 		  
 		  String server = "https://api-fxpractice.oanda.com/";
